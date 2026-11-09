@@ -15,7 +15,7 @@ Una utilidad profesional para **Windows · macOS · Linux** que identifica qué 
 [![Descargas](https://img.shields.io/github/downloads/rellytechgame/repid/total?style=flat&logo=github&color=22d3ee)](https://github.com/rellytechgame/repid/releases)
 [![English](https://img.shields.io/badge/Language-English-6366f1?style=flat)](README.md)
 
-### [⬇ Descargar](https://github.com/rellytechgame/repid/releases/tag/win-release) · [🌐 Demo web](https://repid-identity-demo.vercel.app) · [💜 Apoyar el desarrollo](#-apoya-el-desarrollo) · [🐛 Reportar un error](https://github.com/rellytechgame/repid/issues/new/choose)
+### [⬇ Descargar](https://github.com/rellytechgame/repid/releases/tag/win-release) · [🌐 Demo web](https://repid-identity.vercel.app) · [💜 Apoyar el desarrollo](#-apoya-el-desarrollo) · [🐛 Reportar un error](https://github.com/rellytechgame/repid/issues/new/choose)
 
 <sub>Creado y mantenido por</sub><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="brand/voxel-light.png"><img src="brand/voxel-dark.png" height="30" alt="RellyDev — Voxel Enterprise" /></picture>
